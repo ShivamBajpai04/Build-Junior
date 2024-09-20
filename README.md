@@ -147,9 +147,7 @@ This project implements a comprehensive token airdrop system using the Kalp bloc
 
 Please read the individual README files in the `Smart-Contract` and `frontend` directories for specific contribution guidelines.
 
-## License
 
-[Add your chosen license information here]
 
 ## Troubleshooting
 
