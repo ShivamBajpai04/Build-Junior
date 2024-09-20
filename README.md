@@ -24,7 +24,7 @@ This project implements a comprehensive token airdrop system using the Kalp bloc
 
 ## Prerequisites
 
-- Go version `>=1.19` but `<1.20`
+- Go version `>=1.19` but `<1.20` 
 - Node.js version `>=14.x`
 - npm version `>=6.x`
 - Kalp Studio account for smart contract deployment and API key generation
